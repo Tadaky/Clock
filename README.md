@@ -1,2 +1,2 @@
-# Clock
-A simple clock with a simple button.
+# Clock🕓
+* A simple clock with a simple button.
